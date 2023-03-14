@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346918471344",
+    "project_id": "reactnativetasks-ef29b",
+    "storage_bucket": "reactnativetasks-ef29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346918471344:android:eb44676ed827c855b61d75",
+        "android_client_info": {
+          "package_name": "com.reactnativetasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346918471344-g78lh9ekl51rk2pp92jvtjvvh8qngojr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativetasks",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "346918471344-o5uu8ntatcvqqeqr14nfarg5gufpfi87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI-umEZTA8ZR73_-X52dVBv4eCMfUJrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346918471344-o5uu8ntatcvqqeqr14nfarg5gufpfi87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
